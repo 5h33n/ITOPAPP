@@ -1,0 +1,2 @@
+INSERT INTO `administrador` ( `usuario`,  `nombres`, `apaterno`, `amaterno`, `f_nacimiento`, `genero`, `email`, `telefono`, `foto`, `estado`) 
+VALUES ( 'admin',  'Daniel de Jesus ', 'Garcia', 'Labastida', '1995-04-17', 'Masculino', 'nerteck@gmail.com', '9513482635', 'img/admin.png', '1');

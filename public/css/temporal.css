@@ -1,0 +1,92 @@
+#contacto>section{
+    padding-top: 150px;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+#ejemplo{
+    padding-top: 20px;
+    padding-left: 40px;
+    width: 400px;
+    height: 200px;
+}
+#ejemplo2{
+    margin-left: 40px;
+}
+#ej2{
+    padding-right: 30px;
+}
+#lista{
+    text-align: center;
+}
+#lista ul{
+    list-style: none;
+}
+#lista1 li{
+    padding-left: 500px;
+    padding-right: 3px;
+}
+.yamm .dropdown.yamm-fw .dropdown-menu {
+	left: 15px;
+	right: 15px;
+}
+.yamm .nav.navbar-right .dropdown-menu {
+	left: auto;
+	right: 0;
+}
+.navbar ul.dropdown-menu li {
+	list-style-type: none;
+	border-bottom: solid 1px #eee;
+	text-transform: uppercase;
+	letter-spacing: .08em;
+	padding: 4px 0;
+}
+.yamm .yamm-content {
+	padding: 20px 30px;
+}
+.navbar .yamm-content h5 {
+	text-transform: uppercase;
+	padding-bottom: 10px;
+	border-bottom: dotted 1px #555;
+	letter-spacing: .08em;
+}
+.navbar .yamm-content ul {
+	margin: 0;
+	padding: 0;
+}
+.navbar .yamm-content ul li {
+	list-style-type: none;
+	border-bottom: solid 1px #eee;
+	text-transform: uppercase;
+	padding: 4px 0;
+}
+.navbar .yamm-content ul li a {
+	position: relative;
+	color: #999;
+	font-size: 12px;
+	display: block;
+	-webkit-transition: all .2s ease-out;
+	-moz-transition: all .2s ease-out;
+	transition: all .2s ease-out;
+}
+.navbar .yamm-content ul li a:hover {
+	color: #38a7bb;
+	text-decoration: none;
+	padding-left: 2px;
+}
+.dropdown-menu {
+	z-index: 1000;
+	font-size: 14px;
+	background-color: #fff;
+	border: 1px solid #ccc;
+	border: 1px solid rgba(0,0,0,0.15);
+	border-radius: 0;
+	-webkit-box-shadow: 0 6px 12px rgba(0,0,0,0.175);
+	box-shadow: 0 6px 12px rgba(0,0,0,0.175);
+}
+.navbar-nav > li > .dropdown-menu {
+	margin-top: 0;
+	border-top-right-radius: 0;
+	border-top-left-radius: 0;
+}
